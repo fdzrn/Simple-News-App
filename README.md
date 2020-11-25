@@ -19,4 +19,6 @@ Berikut adalah daftar library yang saya gunakan :
 - Retrofit
 - Navigation Components
 - Glide
+
+### Simulasi aplikasi
 Untuk melihat simulasi dari aplikasi berjalan, click [disini](https://youtu.be/tsVFpIhUOzg). 
